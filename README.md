@@ -11,6 +11,7 @@ AIIT-UMS-Project is a simple yet powerful ERP software designed for colleges and
 - **Modular Design**: The project is structured to be easily understandable and extendable.
 
 For any questions or suggestions, please contact the project maintainer at `VidulChauhan@example.com`.
+
 PDF : https://drive.google.com/file/d/1np3VQL2SFVDbH6_I8DK3De-n6qr701r_/view?usp=sharing
 ```
 
