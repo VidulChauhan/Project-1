@@ -2,6 +2,8 @@
 
 AIIT-UMS-Project is a simple yet powerful ERP software designed for colleges and universities. The project focuses on enhancing user experience while maintaining simplicity in the codebase, allowing for easy future improvements.
 
+
+
 ## Features
 
 - **User-Friendly Interface**: Built with Tkinter, the software provides an intuitive graphical user interface.
@@ -9,6 +11,7 @@ AIIT-UMS-Project is a simple yet powerful ERP software designed for colleges and
 - **Modular Design**: The project is structured to be easily understandable and extendable.
 
 For any questions or suggestions, please contact the project maintainer at `VidulChauhan@example.com`.
+PDF : https://drive.google.com/file/d/1np3VQL2SFVDbH6_I8DK3De-n6qr701r_/view?usp=sharing
 ```
 
 This `README.md` file provides a clear overview of the project, instructions for installation, usage, and guidelines for contributing.
